@@ -1,6 +1,15 @@
-# food_delivery_app_ui
+# Food Delivery App UI
 
 A new Flutter project.
+
+## Output
+
+
+
+
+https://github.com/ayushkharwal/Food-Delivery-App-UI-Flutter/assets/64960113/31ddb9b4-3fc4-468c-8ea3-781d68119e25
+
+
 
 ## Getting Started
 
